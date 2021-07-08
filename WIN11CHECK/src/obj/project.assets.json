@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Flami\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "2.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Flami\\Source\\Repos\\Windows-11-Compatibility-Checker\\src\\Windows 11 Compatibility Checker WPF.csproj",
+      "projectName": "Windows 11 Compatibility Checker WPF",
+      "projectPath": "C:\\Users\\Flami\\Source\\Repos\\Windows-11-Compatibility-Checker\\src\\Windows 11 Compatibility Checker WPF.csproj",
+      "packagesPath": "C:\\Users\\Flami\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Flami\\Source\\Repos\\Windows-11-Compatibility-Checker\\src\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Flami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "targetAlias": "net45",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

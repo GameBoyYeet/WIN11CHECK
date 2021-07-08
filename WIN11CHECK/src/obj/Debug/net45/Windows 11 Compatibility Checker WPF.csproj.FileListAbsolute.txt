@@ -1,0 +1,19 @@
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\MainWindow.g.cs
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Window1.g.cs
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\App.g.cs
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF_MarkupCompile.cache
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF_MarkupCompile.lref
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\bin\Debug\net45\Windows 11 Compatibility Checker WPF.exe.config
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\bin\Debug\net45\Windows 11 Compatibility Checker WPF.exe
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\bin\Debug\net45\Windows 11 Compatibility Checker WPF.pdb
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\MainWindow.baml
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Window1.baml
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.g.resources
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows_11_Compatibility_Checker_WPF.Properties.Resources.resources
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.csproj.GenerateResource.cache
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.AssemblyInfoInputs.cache
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.AssemblyInfo.cs
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.csproj.CoreCompileInputs.cache
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.exe
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.pdb
+C:\Users\Flami\Source\Repos\Windows-11-Compatibility-Checker\src\obj\Debug\net45\Windows 11 Compatibility Checker WPF.csproj.AssemblyReference.cache
